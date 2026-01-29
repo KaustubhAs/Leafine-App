@@ -15,7 +15,8 @@ In a world facing climate change and increasing pest infestations, early disease
 ## 🏗️ System Architecture & Methodology
 The system follows a pipeline of data collection, pre-processing, and classification using a Convolutional Neural Network (CNN).
 
-![Block Diagram of Proposed System](Images/Block dig of Arch.png)
+![Block Diagram of Proposed System](Images/BlockDigOfArch.png)
+
 *Fig 1. Block Diagram of Proposed System*
 
 ### Steps involved:
@@ -43,6 +44,7 @@ The application allows users to capture or upload an image of a plant leaf. The 
 
 ![Mobile Application Screenshot](Images/app_sreenshot1.png)
 ![Mobile Application Screenshot](Images/app_sreenshot2.png)
+
 *Fig 6. Mobile Application Interface showing detection of Black Rot and Healthy leaf*
 
 ## 📊 Results
