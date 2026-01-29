@@ -43,6 +43,7 @@ The system follows a pipeline of data collection, pre-processing, and classifica
 The application allows users to capture or upload an image of a plant leaf. The system processes the image and returns a prediction with the disease name and confidence score.
 
 ![Mobile Application Screenshot](Images/app_sreenshot1.png)
+
 ![Mobile Application Screenshot](Images/app_sreenshot2.png)
 
 *Fig 6. Mobile Application Interface showing detection of Black Rot and Healthy leaf*
