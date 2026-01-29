@@ -33,7 +33,7 @@ The system follows a pipeline of data collection, pre-processing, and classifica
 * **Language:** Python 3.9
 * **Deep Learning Frameworks:** * TensorFlow (Foundational library)
     * Keras (High-level neural networks library)
-* **IDE:** PyCharm
+* **IDE:** Android Studios, PyCharm
 
 ### Hardware Requirements
 * **Platform:** Android Operating System
