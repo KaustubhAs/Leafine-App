@@ -15,7 +15,7 @@
 ## 🏗️ System Architecture & Methodology
 The system follows a pipeline of data collection, pre-processing, and classification using a Convolutional Neural Network (CNN).
 
-![Block Diagram of Proposed System](path/to/your/block_diagram_image.png)
+![Block Diagram of Proposed System](Images/Block dig of Arch.png)
 [cite_start]*Fig 1. Block Diagram of Proposed System [cite: 642]*
 
 ### Steps involved:
